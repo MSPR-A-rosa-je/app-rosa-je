@@ -2,7 +2,7 @@
 ## :arrow_forward: Installation
 
 1. Copiez les sources sur votre machine personnel avec la commande suivante:
-> git clone https://gitlab.com/elliot.latter/flutter-project.git
+> git clone https://github.com/MSPR-A-rosa-je/app-rosa-je
 2. Lancez l'application!
 
 ## :mailbox_with_no_mail: Contributions
